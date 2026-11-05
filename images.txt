@@ -1,7 +1,7 @@
-n132/arvo:11351
-n132/arvo:11504
-n132/arvo:11714
-n132/arvo:12419
+n132/arvo:11351-vul
+n132/arvo:11504-vul
+n132/arvo:11714-vul
+n132/arvo:12419-vul
 n132/arvo:5889-fix
 n132/arvo:6802-fix
 n132/arvo:8719-fix
